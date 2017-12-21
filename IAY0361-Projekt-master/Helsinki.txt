@@ -1,0 +1,7 @@
+Linna nimi: Helsinki
+Linna koordinaadid: 59.4372,24.7454
+Ilm 3 päeva kohta:
+	 * 17.12.2017: Min = -5.11, Max = 1.54
+	 * 18.12.2017: Min = -4.9, Max = -4.9
+	 * 16.12.2017: Min = -1.5, Max = 0.01
+Hetke ilma temperaturr: -0.32
